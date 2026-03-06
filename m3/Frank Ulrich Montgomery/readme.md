@@ -6,7 +6,7 @@
 
 ## Frank Ulrich Montgomery Portrait_0.png.avif
 
-![Frank Ulrich Montgomery Portrait_0.png.avif](Frank Ulrich Montgomery Portrait_0.png.avif)
+![Frank Ulrich Montgomery Portrait_0.png.avif](Frank%20Ulrich%20Montgomery%20Portrait_0.png.avif)
 
 ## gettyimages-454599980-1024x1024.jpg.avif
 
@@ -66,7 +66,7 @@
 
 ## gettyimages-645854892-1024x1024 (1).jpg.avif
 
-![gettyimages-645854892-1024x1024 (1).jpg.avif](gettyimages-645854892-1024x1024 (1).jpg.avif)
+![gettyimages-645854892-1024x1024 (1).jpg.avif](gettyimages-645854892-1024x1024%20%281%29.jpg.avif)
 
 ## gettyimages-645854894-1024x1024.jpg.avif
 
