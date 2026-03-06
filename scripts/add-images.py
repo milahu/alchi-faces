@@ -190,7 +190,7 @@ def write_dir_markdown(dir_path, images):
             "",
         ]
 
-    (dir_path / "README.md").write_text("\n".join(lines))
+    (dir_path / "readme.md").write_text("\n".join(lines))
 
 
 def write_dir_html(dir_path, images):
@@ -259,7 +259,7 @@ def render_tree_md(node, path="", image_dirs=set()):
         has_images = Path(new_path) in image_dirs
 
         label = escape_md_text(name)
-        link = encode_md_url(f"{new_path}/README.md")
+        link = encode_md_url(f"{new_path}/readme.md")
 
         if child:
 
