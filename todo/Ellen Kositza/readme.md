@@ -2,19 +2,19 @@
 
 ## 1118full-ellen-kositza (1).jpg.avif
 
-![1118full-ellen-kositza (1).jpg.avif](1118full-ellen-kositza (1).jpg.avif)
+![1118full-ellen-kositza (1).jpg.avif](1118full-ellen-kositza%20%281%29.jpg.avif)
 
 ## 1118full-ellen-kositza (2).jpg.avif
 
-![1118full-ellen-kositza (2).jpg.avif](1118full-ellen-kositza (2).jpg.avif)
+![1118full-ellen-kositza (2).jpg.avif](1118full-ellen-kositza%20%282%29.jpg.avif)
 
 ## 1118full-ellen-kositza (3).jpg.avif
 
-![1118full-ellen-kositza (3).jpg.avif](1118full-ellen-kositza (3).jpg.avif)
+![1118full-ellen-kositza (3).jpg.avif](1118full-ellen-kositza%20%283%29.jpg.avif)
 
 ## 1118full-ellen-kositza (4).jpg.avif
 
-![1118full-ellen-kositza (4).jpg.avif](1118full-ellen-kositza (4).jpg.avif)
+![1118full-ellen-kositza (4).jpg.avif](1118full-ellen-kositza%20%284%29.jpg.avif)
 
 ## 1118full-ellen-kositza.jpg.avif
 
@@ -34,11 +34,11 @@
 
 ## 740full-ellen-kositza (1).jpg.avif
 
-![740full-ellen-kositza (1).jpg.avif](740full-ellen-kositza (1).jpg.avif)
+![740full-ellen-kositza (1).jpg.avif](740full-ellen-kositza%20%281%29.jpg.avif)
 
 ## 740full-ellen-kositza (2).jpg.avif
 
-![740full-ellen-kositza (2).jpg.avif](740full-ellen-kositza (2).jpg.avif)
+![740full-ellen-kositza (2).jpg.avif](740full-ellen-kositza%20%282%29.jpg.avif)
 
 ## 740full-ellen-kositza.jpg.avif
 
@@ -46,7 +46,7 @@
 
 ## 768full-ellen-kositza (1).jpg.avif
 
-![768full-ellen-kositza (1).jpg.avif](768full-ellen-kositza (1).jpg.avif)
+![768full-ellen-kositza (1).jpg.avif](768full-ellen-kositza%20%281%29.jpg.avif)
 
 ## 768full-ellen-kositza.jpg.avif
 
