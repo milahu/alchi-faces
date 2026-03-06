@@ -6,15 +6,15 @@
 
 ## angela-merkel (1).jpg.avif
 
-![angela-merkel (1).jpg.avif](angela-merkel (1).jpg.avif)
+![angela-merkel (1).jpg.avif](angela-merkel%20%281%29.jpg.avif)
 
 ## angela-merkel,id=dfbb98e8,b=intouch,w=1280,ca=5.00,12.01,95.00,87.99,rm=sk.webp
 
-![angela-merkel,id=dfbb98e8,b=intouch,w=1280,ca=5.00,12.01,95.00,87.99,rm=sk.webp](angela-merkel,id=dfbb98e8,b=intouch,w=1280,ca=5.00,12.01,95.00,87.99,rm=sk.webp)
+![angela-merkel,id=dfbb98e8,b=intouch,w=1280,ca=5.00,12.01,95.00,87.99,rm=sk.webp](angela-merkel%2Cid%3Ddfbb98e8%2Cb%3Dintouch%2Cw%3D1280%2Cca%3D5.00%2C12.01%2C95.00%2C87.99%2Crm%3Dsk.webp)
 
 ## angela-merkel-im-auto-104~2400x1350 (1).jpeg.avif
 
-![angela-merkel-im-auto-104~2400x1350 (1).jpeg.avif](angela-merkel-im-auto-104~2400x1350 (1).jpeg.avif)
+![angela-merkel-im-auto-104~2400x1350 (1).jpeg.avif](angela-merkel-im-auto-104~2400x1350%20%281%29.jpeg.avif)
 
 ## angela-merkel.jpg.avif
 
