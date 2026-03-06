@@ -6,7 +6,7 @@
 
 ## 2025-04-29-Sahra_Wagenknecht-Maischberger-3049_(cropped_2).jpg.avif
 
-![2025-04-29-Sahra_Wagenknecht-Maischberger-3049_(cropped_2).jpg.avif](2025-04-29-Sahra_Wagenknecht-Maischberger-3049_(cropped_2).jpg.avif)
+![2025-04-29-Sahra_Wagenknecht-Maischberger-3049_(cropped_2).jpg.avif](2025-04-29-Sahra_Wagenknecht-Maischberger-3049_%28cropped_2%29.jpg.avif)
 
 ## 2494001-sahra-wagenknecht.webp
 
@@ -82,7 +82,7 @@
 
 ## wagenknecht_sahra_gross (1).jpg.avif
 
-![wagenknecht_sahra_gross (1).jpg.avif](wagenknecht_sahra_gross (1).jpg.avif)
+![wagenknecht_sahra_gross (1).jpg.avif](wagenknecht_sahra_gross%20%281%29.jpg.avif)
 
 ## wagenknecht_sahra_gross.jpg.avif
 
