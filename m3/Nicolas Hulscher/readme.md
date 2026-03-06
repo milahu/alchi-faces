@@ -10,7 +10,7 @@
 
 ## Nicolas Hulscher (1).jpg.avif
 
-![Nicolas Hulscher (1).jpg.avif](Nicolas Hulscher (1).jpg.avif)
+![Nicolas Hulscher (1).jpg.avif](Nicolas%20Hulscher%20%281%29.jpg.avif)
 
 ## d16d7540-b770-4d80-9db6-bf64dc5a0143_2401x3602.webp
 
