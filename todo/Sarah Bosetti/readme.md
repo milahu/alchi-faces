@@ -2,7 +2,7 @@
 
 ## 1118full-sarah-bosetti (1).jpg.avif
 
-![1118full-sarah-bosetti (1).jpg.avif](1118full-sarah-bosetti (1).jpg.avif)
+![1118full-sarah-bosetti (1).jpg.avif](1118full-sarah-bosetti%20%281%29.jpg.avif)
 
 ## 1118full-sarah-bosetti.jpg.avif
 
