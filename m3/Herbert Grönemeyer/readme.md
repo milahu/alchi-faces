@@ -6,11 +6,11 @@
 
 ## 1LIVE_Krone_2014_Herbert_Grönemeyer_1.jpg.avif
 
-![1LIVE_Krone_2014_Herbert_Grönemeyer_1.jpg.avif](1LIVE_Krone_2014_Herbert_Grönemeyer_1.jpg.avif)
+![1LIVE_Krone_2014_Herbert_Grönemeyer_1.jpg.avif](1LIVE_Krone_2014_Herbert_Gr%C3%B6nemeyer_1.jpg.avif)
 
 ## 22--album-erfuellte-ihm-einen-wunsch---3-2---spoton-article-1118510 (1).jpg.avif
 
-![22--album-erfuellte-ihm-einen-wunsch---3-2---spoton-article-1118510 (1).jpg.avif](22--album-erfuellte-ihm-einen-wunsch---3-2---spoton-article-1118510 (1).jpg.avif)
+![22--album-erfuellte-ihm-einen-wunsch---3-2---spoton-article-1118510 (1).jpg.avif](22--album-erfuellte-ihm-einen-wunsch---3-2---spoton-article-1118510%20%281%29.jpg.avif)
 
 ## Groenemeyer-DW-Kultur-Berlin-jpg.jpg.avif
 
@@ -30,11 +30,11 @@
 
 ## herbert-groenemeyer (1).jpg.avif
 
-![herbert-groenemeyer (1).jpg.avif](herbert-groenemeyer (1).jpg.avif)
+![herbert-groenemeyer (1).jpg.avif](herbert-groenemeyer%20%281%29.jpg.avif)
 
 ## herbert-groenemeyer (2).jpg.avif
 
-![herbert-groenemeyer (2).jpg.avif](herbert-groenemeyer (2).jpg.avif)
+![herbert-groenemeyer (2).jpg.avif](herbert-groenemeyer%20%282%29.jpg.avif)
 
 ## herbert-groenemeyer--4830894-.jpg.avif
 
