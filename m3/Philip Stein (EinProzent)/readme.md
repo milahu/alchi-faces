@@ -2,7 +2,7 @@
 
 ## PEGIDA Rede Philip Stein.png.avif
 
-![PEGIDA Rede Philip Stein.png.avif](PEGIDA Rede Philip Stein.png.avif)
+![PEGIDA Rede Philip Stein.png.avif](PEGIDA%20Rede%20Philip%20Stein.png.avif)
 
 ## Philip-Stein-Ein-Prozent-1121x1024.jpg.avif
 
