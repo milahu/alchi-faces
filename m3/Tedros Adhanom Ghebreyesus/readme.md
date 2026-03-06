@@ -18,7 +18,7 @@
 
 ## Ethiopian-microbiologist-Tedros-Adhanom-Ghebreyesus (2).jpg.avif
 
-![Ethiopian-microbiologist-Tedros-Adhanom-Ghebreyesus (2).jpg.avif](Ethiopian-microbiologist-Tedros-Adhanom-Ghebreyesus (2).jpg.avif)
+![Ethiopian-microbiologist-Tedros-Adhanom-Ghebreyesus (2).jpg.avif](Ethiopian-microbiologist-Tedros-Adhanom-Ghebreyesus%20%282%29.jpg.avif)
 
 ## Ethiopian-microbiologist-Tedros-Adhanom-Ghebreyesus.jpg.avif
 
@@ -38,7 +38,7 @@
 
 ## b9417362-8570-48c2-8c2d-16d10b3208ea_4f31a2b6 (1).webp
 
-![b9417362-8570-48c2-8c2d-16d10b3208ea_4f31a2b6 (1).webp](b9417362-8570-48c2-8c2d-16d10b3208ea_4f31a2b6 (1).webp)
+![b9417362-8570-48c2-8c2d-16d10b3208ea_4f31a2b6 (1).webp](b9417362-8570-48c2-8c2d-16d10b3208ea_4f31a2b6%20%281%29.webp)
 
 ## tedros-adhanom-ghebreyesus-5-1320x952.jpg.avif
 
