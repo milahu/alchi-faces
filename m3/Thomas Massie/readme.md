@@ -30,7 +30,7 @@
 
 ## thomas-massie (1).webp
 
-![thomas-massie (1).webp](thomas-massie (1).webp)
+![thomas-massie (1).webp](thomas-massie%20%281%29.webp)
 
 ## thomas-massie-1.webp
 
