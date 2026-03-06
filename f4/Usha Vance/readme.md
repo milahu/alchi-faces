@@ -46,7 +46,7 @@
 
 ## Usha_Vance,_official_portrait_(2025).jpg.avif
 
-![Usha_Vance,_official_portrait_(2025).jpg.avif](Usha_Vance,_official_portrait_(2025).jpg.avif)
+![Usha_Vance,_official_portrait_(2025).jpg.avif](Usha_Vance%2C_official_portrait_%282025%29.jpg.avif)
 
 ## intro-1740016249.webp
 
