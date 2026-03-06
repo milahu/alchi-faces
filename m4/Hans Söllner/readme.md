@@ -18,7 +18,7 @@
 
 ## Hans-Söllner-Foto-Attisani-komp.jpg.avif
 
-![Hans-Söllner-Foto-Attisani-komp.jpg.avif](Hans-Söllner-Foto-Attisani-komp.jpg.avif)
+![Hans-Söllner-Foto-Attisani-komp.jpg.avif](Hans-S%C3%B6llner-Foto-Attisani-komp.jpg.avif)
 
 ## Hans_Soellner5.jpg.avif
 
