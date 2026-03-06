@@ -17,6 +17,7 @@
 - f4
   - [Alena Buyx](f4/Alena%20Buyx/readme.md)
   - [Demi Moore](f4/Demi%20Moore/readme.md)
+  - [Ellen Kositza](f4/Ellen%20Kositza/readme.md)
   - [Jacinda Ardern](f4/Jacinda%20Ardern/readme.md)
   - [Julia McCoy](f4/Julia%20McCoy/readme.md)
   - [Lara Sweet](f4/Lara%20Sweet/readme.md)
@@ -89,7 +90,6 @@
   - [Wolfgang Wodarg](m4/Wolfgang%20Wodarg/readme.md)
 - todo
   - [Bill Clinton](todo/Bill%20Clinton/readme.md)
-  - [Ellen Kositza](todo/Ellen%20Kositza/readme.md)
   - [Eugen Drewermann](todo/Eugen%20Drewermann/readme.md)
   - [Florian Warweg (Bundespressekonferenz)](todo/Florian%20Warweg%20%28Bundespressekonferenz%29/readme.md)
   - [Gary Webb (investigative journalist)](todo/Gary%20Webb%20%28investigative%20journalist%29/readme.md)
