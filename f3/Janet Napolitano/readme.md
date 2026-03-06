@@ -38,7 +38,7 @@
 
 ## janet-napolitano-elated-idbirimo9gu9v44g (1).webp
 
-![janet-napolitano-elated-idbirimo9gu9v44g (1).webp](janet-napolitano-elated-idbirimo9gu9v44g (1).webp)
+![janet-napolitano-elated-idbirimo9gu9v44g (1).webp](janet-napolitano-elated-idbirimo9gu9v44g%20%281%29.webp)
 
 ## janet-napolitano-gesturing-e8fl2g2pb8vb7pq9.webp
 
@@ -82,7 +82,7 @@
 
 ## janet-napolitano-side-profile-6qbqitr5ovdnvn8q (1).webp
 
-![janet-napolitano-side-profile-6qbqitr5ovdnvn8q (1).webp](janet-napolitano-side-profile-6qbqitr5ovdnvn8q (1).webp)
+![janet-napolitano-side-profile-6qbqitr5ovdnvn8q (1).webp](janet-napolitano-side-profile-6qbqitr5ovdnvn8q%20%281%29.webp)
 
 ## janet-napolitano-side-view-photo-r8237mn6rr9adigs.webp
 
