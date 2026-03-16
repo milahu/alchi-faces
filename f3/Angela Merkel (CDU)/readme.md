@@ -4,6 +4,10 @@
 
 ![28817-b-angela-merkel-kimdir-28817.webp](28817-b-angela-merkel-kimdir-28817.webp)
 
+## HDYrCneaMAE7vkM.jpeg.avif
+
+![HDYrCneaMAE7vkM.jpeg.avif](HDYrCneaMAE7vkM.jpeg.avif)
+
 ## angela-merkel (1).jpg.avif
 
 ![angela-merkel (1).jpg.avif](angela-merkel%20%281%29.jpg.avif)
